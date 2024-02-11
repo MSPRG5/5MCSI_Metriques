@@ -40,6 +40,7 @@ Rendez-vous sur **https://www.alwaysdata.com/fr/**
   
 Remarque : **Attention à bien vous rappeler vos Login/Password** lors de la création de votre compte car vous en aurez besoin plus tard pour la création de vos "Secrets GitHUB".
 
+**Procédure :**  
 1° - Créez votre compte (gratuit jusqu'à 100Mo)  
 2° - Depuis la console d'administration (Panel d'administration) :  
 2.1 - Cliquez sur "Sites" (Colonne de gauche) puis supprimer votre site PHP (avec la Poubelle).  
