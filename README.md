@@ -17,7 +17,7 @@ GitHUB est une plateforme en ligne utilisée pour stocker le code de son program
 GitHUB est organisé en "Repository", c'est à dire en répertoire (contenant lui même des sous répertoires et des fichiers). Chaque Repository sera indépendant des autres. Un Repository peu être vu comme un projet unique.
 
 **Procedure :**
-1° - Créer vous un compte sur GitHub : https://github.com/
+1° - Créer vous un compte sur GitHub : https://github.com/</br>
 Si besoin, un vidéo pour vous aider à créer votre propre compte GitHUB : https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account
 A noter que si vous possédez déjà un compte GitHUB vous pouvez le conserver pour réaliser cet atelier. Pas besion d'en créer un nouveau.
 
