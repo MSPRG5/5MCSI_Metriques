@@ -16,7 +16,7 @@ Difficulté : Faible (~10 minutes)
 GitHUB est une plateforme en ligne utilisée pour stocker le code de son programme.
 GitHUB est organisé en "Repository", c'est à dire en répertoire (contenant lui même des sous répertoires et des fichiers). Chaque Repository sera indépendant des autres. Un Repository peu être vu comme un projet unique.
 
-**Procedure :**-  
+**Procedure à suivre :**  
 1° - Créer vous un compte sur GitHub : https://github.com/  
 Si besoin, un vidéo pour vous aider à créer votre propre compte GitHUB : [Créer un compte GitHUB](https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account)  
 A noter que si vous possédez déjà un compte GitHUB vous pouvez le conserver pour réaliser cet atelier. Pas besion d'en créer un nouveau.
@@ -28,29 +28,28 @@ Si besion, voici une vidéo d'accompagnement pour vous aider : [Forker ce projet
 Notion acquise lors de cette séquence :  
 Vous avez appris lors de cette séquence à créer des repository pour stocker et travailler avec votre code informatique. Vous pourez par la suite travailler en groupe sur un projet. Vous avez également appris à faire des forks. C'est à dire, faire des copies de projets déjà existant dans GitHUB que vous pourrez ensuite adapter à vos besions.
 
-
-
-
 ---------------------------------------------------
-Séquence 1: Création d'un hébergement en ligne
+Séquence 2 : Création d'un hébergement en ligne
 ---------------------------------------------------
-Objectif : Créer un hébergement sur Alawaysdata
-Difficulté : Faible (~20 minutes)
+Objectif : Créer un hébergement sur Alawaysdata  
+Difficulté : Faible (~15 minutes)
 ---------------------------------------------------
 
-Rendez-vous sur https://www.alwaysdata.com/fr/
+Rendez-vous sur **https://www.alwaysdata.com/fr/**  
+  
+Remarque : **Attention à bien vous rappeler vos Login/Password** car vous en aurez besoin plus tard pour la création de vos "secrets GitHUB".
 
 1° - Créez votre compte (gratuit jusqu'à 100Mo)
 2° - Depuis la console d'administration (Panel d'administration) :
-	2.1 - Cliquez sur "Sites" (Colonne de gauche) puis supprimer votre site PHP (Poubelle)
-	2.2 - Installer ensuite une application Flask (Bouton + Installer une application)
+	2.1 - Cliquez sur "Sites" (Colonne de gauche) puis supprimer votre site PHP (avec la Poubelle).
+	2.2 - Installer ensuite une application Flask (Bouton + Installer une application).
 		2.2.1 Adresses = utilisez le sous-domaine qui vous appartient que vous trouverez dans l'information " Les sous-domaines suivants vous appartiennent et sont actuellement inutilisés : {Site}.alwaysdata.net
 		2.2.2 Répertoire d'installation = /www/flask
 		2.2.3 N'oubliez pas d'Accepter les conditions
 		
 Travail demandé : **Mettre en ligne votre application** et copier l'URL dans la discussion Discord
 
-Remarque : **Attention à bien vous rappeler vos Login/Password** car vous en aurez besoin plus tard pour les connexions SSH.
+
 
 Notion acquise lors de cette séquence :
 Vous avez créer un hébergement (gratuit) et découvert que vous auriez pu installer bien d'autres applications. 
