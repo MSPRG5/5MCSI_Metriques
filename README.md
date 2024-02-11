@@ -43,11 +43,11 @@ Remarque : **Attention à bien vous rappeler vos Login/Password** lors de la cr�
 **Procédure :**  
 1° - Créez votre compte (gratuit jusqu'à 100Mo)  
 2° - Depuis la console d'administration (Panel d'administration) :  
-2.1 - Cliquez sur "Sites" (Colonne de gauche) puis supprimer votre site PHP (avec la Poubelle).  
-2.2 - Installer ensuite une application Flask (Bouton + Installer une application).  
-2.2.1 Adresses = utilisez le sous-domaine qui vous appartient que vous trouverez dans l'information " Les sous-domaines suivants vous appartiennent et sont actuellement inutilisés : {Site}.alwaysdata.net  
-2.2.2 Répertoire d'installation = /www/flask  
-2.2.3 N'oubliez pas d'Accepter les conditions  
+ . 2.1 - Cliquez sur "Sites" (Colonne de gauche) puis supprimer votre site PHP (avec la Poubelle).  
+ . 2.2 - Installer ensuite une application Flask (Bouton + Installer une application).  
+ . . 2.2.1 Adresses = utilisez le sous-domaine qui vous appartient que vous trouverez dans l'information " Les sous-domaines suivants vous appartiennent et sont actuellement inutilisés : {Site}.alwaysdata.net  
+ . . 2.2.2 Répertoire d'installation = /www/flask  
+ . 2.2.3 N'oubliez pas d'Accepter les conditions  
 		
 **Travail demandé :** Mettre en ligne votre application et **copier l'URL de votre site dans la discussion Discord**.  
   
