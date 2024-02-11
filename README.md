@@ -38,7 +38,7 @@ Difficulté : Faible (~15 minutes)
 
 Rendez-vous sur **https://www.alwaysdata.com/fr/**  
   
-Remarque : **Attention à bien vous rappeler vos Login/Password** car vous en aurez besoin plus tard pour la création de vos "secrets GitHUB".
+Remarque : **Attention à bien vous rappeler vos Login/Password** lors de la création de votre compte car vous en aurez besoin plus tard pour la création de vos "Secrets GitHUB".
 
 1° - Créez votre compte (gratuit jusqu'à 100Mo)  
 2° - Depuis la console d'administration (Panel d'administration) :  
