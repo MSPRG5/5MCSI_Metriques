@@ -17,12 +17,12 @@ GitHUB est une plateforme en ligne utilisée pour stocker le code de son program
 GitHUB est organisé en "Repository", c'est à dire en répertoire (contenant lui même des sous répertoires et des fichiers). Chaque Repository sera indépendant des autres. Un Repository peu être vu comme un projet unique.
 
 **Procedure :**
-1° - Créer vous un compte sur GitHub : https://github.com/</br>
+1° - Créer vous un compte sur GitHub : https://github.com/
 Si besoin, un vidéo pour vous aider à créer votre propre compte GitHUB : https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account
 A noter que si vous possédez déjà un compte GitHUB vous pouvez le conserver pour réaliser cet atelier. Pas besion d'en créer un nouveau.
 
 2° - Faites un Fork du Repository suivant : https://github.com/OpenRSI/5MCSI_Metriques.git
-Si besion, voici une vidéo d'accompagnement pour vous aider à "Forker" ce projet : [https://www.youtube.com/watch?v=yoBAszjRI3o](https://youtu.be/p33-7XQ29zQ)
+Si besion, voici une vidéo d'accompagnement pour vous aider : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)
 
 Remarque : Pour faciliter l'atelier ne modifiez pas le nom de votre fork et intitulez le flask_hello_world
 
