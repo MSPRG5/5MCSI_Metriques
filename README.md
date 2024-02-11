@@ -22,7 +22,8 @@ Si besoin, un vidéo pour vous aider à créer votre propre compte GitHUB : [Cr�
 A noter que si vous possédez déjà un compte GitHUB vous pouvez le conserver pour réaliser cet atelier. Pas besion d'en créer un nouveau.
 
 2° - Faites un Fork du Repository suivant : https://github.com/OpenRSI/5MCSI_Metriques.git  
-Si besion, voici une vidéo d'accompagnement pour vous aider : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)  
+Si besion, voici une vidéo d'accompagnement pour vous aider : [Forker ce projet](https://youtu.be/p33-7XQ29zQ)    
+  
 **Travail demandé :** Créé votre compte, faites le fork de ce projet et **copier l'URL de votre repository GitHUB dans la discussion public**.
 
 Notion acquise lors de cette séquence :  
