@@ -22,7 +22,7 @@ Si besoin, un vidéo pour vous aider à créer votre propre compte GitHUB : http
 A noter que si vous possédez déjà un compte GitHUB vous pouvez le conserver pour réaliser cet atelier. Pas besion d'en créer un nouveau.
 
 2° - Faites un Fork du Repository suivant : https://github.com/OpenRSI/5MCSI_Metriques.git
-Si besion, voici une vidéo d'accompagnement pour vous aider à "Forker" ce projet : https://www.youtube.com/watch?v=yoBAszjRI3o
+Si besion, voici une vidéo d'accompagnement pour vous aider à "Forker" ce projet : [https://www.youtube.com/watch?v=yoBAszjRI3o](https://youtu.be/p33-7XQ29zQ)
 
 Remarque : Pour faciliter l'atelier ne modifiez pas le nom de votre fork et intitulez le flask_hello_world
 
