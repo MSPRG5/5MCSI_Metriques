@@ -48,16 +48,17 @@ Remarque : **Attention à bien vous rappeler vos Login/Password** lors de la cr�
  . . 2.2.1 Adresses = utilisez le sous-domaine qui vous appartient que vous trouverez dans l'information " Les sous-domaines suivants vous appartiennent et sont actuellement inutilisés : {Site}.alwaysdata.net  
  . . 2.2.2 Répertoire d'installation = /www/flask  
  . 2.2.3 N'oubliez pas d'Accepter les conditions.  
-3° - Autoriser les connexions SSH  
+3° - Autoriser les connexions SSH :  
  . 3.1 - Cliquez sur SSH (Accès distant)  
  . 3.2 - Modifier les paramètres de votre utilisateur  
  . 3.3 - Définissez si besion un nouveau mot de passe  
  . 3.4 - Cliquez sur **Activer la connexion par mot de passe**  
 
+Si besion, voici une vidéo d'accompagnement pour vous aider dans cette séquence de création d'une site sur Alwaysdata : [Vidéo Alwaysdata](https://youtu.be/6cuHjy8n968)  
 
 
 
-  https://youtu.be/6cuHjy8n968
+  
 **Travail demandé :** Mettre en ligne votre application et **copier l'URL de votre site dans la discussion Discord**.  
   
 Notion acquise lors de cette séquence :  
